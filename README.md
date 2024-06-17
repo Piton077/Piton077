@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Piton077
-- 👀 I’m interested in any sort of software development 
-- 🌱 I’m down to learn a number of programming languages and bring them into play. 
-- 💞️ Teaching for fun the best I can. 
-- 📫 How to reach me: Hit me up at josemoraleswatanabe@gmail.com 
-- My old github account is @Piton007. There will be a track record of career improvement ;)
-
+👋 Hi, I’m @Piton077.
+👀 I’m interested in all sorts of software development.
+🌱 I’m eager to learn various programming languages and apply them in projects.
+💞️ I enjoy teaching for fun as best I can.
+📫 How to reach me: josemoraleswatanabe@gmail.com
+My old GitHub account is @Piton007. You can check it for a track record of my engineering thinking 
