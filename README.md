@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Piton077
-- 👀 I’m interested in software developemnt and software architecture
-- 🌱 I’m currently learning many programming languages and how to develop challeging system designs.
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: You can contact me: josemoraleswatanabe@gmail.com 
-- My old github account is @Piton007. You cand find out great projects ;)
+- 👀 I’m interested in any sort of software development 
+- 🌱 I’m down to learn a number of programming languages and bring them into play. 
+- 💞️ Teaching for fun the best I can. 
+- 📫 How to reach me: Hit me up at josemoraleswatanabe@gmail.com 
+- My old github account is @Piton007. There will be a track record of career improvement ;)
+
