@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Backend (NestJS, Node JS, Java Springboot), Frontend (Vue, React) **
+- 🔭 I’m currently working on **AWS, Backend (NestJS, Node JS, Java Springboot), Frontend (Vue, React) ** 
 
 - 🌱 I’m currently building **infra skills to gracefully deliver a robust cost effective applications for my clients**
 
@@ -34,7 +34,7 @@
 
 - 📝 I'm more or less active on github for my personal projects, but most of my contributions can be tracked on other hubs such as gitlab
 
-- 💬 Ask me about your business case first, then discuss about tools to bring it to life 
+- 💬 Let's brainstorm ideas for your business case first, then discuss about tools to make it happen
 
 - 📫 Feel free to reach me out **josemoraleswatanabe@gmail.com**
 
