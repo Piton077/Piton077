@@ -12,8 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdyYjNjajNtN3Z6ajRrNGlnY2I3eWZvcnpkbGljOHI5NW84emFxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.webp"
+       alt="hero_image" /></a>
 </div>
 
 
