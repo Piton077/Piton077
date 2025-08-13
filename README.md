@@ -34,7 +34,7 @@
 
 - 📝 I'm more or less active on github for my personal projects, but most of my contributions can be tracked on other hubs such as gitlab
 
-- 💬 Let's brainstorm ideas for your business case first, then discuss about tools to make it happen
+- 💬 Let's brainstorm ideas for your business  first, then discuss about tools to make it happen
 
 - 📫 Feel free to reach me out **josemoraleswatanabe@gmail.com**
 
